@@ -1,0 +1,8 @@
+<svg viewBox="0 0 150 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <text x="0" y="46" fill="#0e1b00" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="900" font-size="52" letter-spacing="-3">rsa</text>
+  <g transform="translate(0, 0)">
+      <circle cx="95" cy="20" r="14" fill="#66cc00" />
+      <path d="M89 25 L93 42 L97 42 L101 25 Z" fill="#66cc00" />
+      <circle cx="95" cy="18" r="4" fill="#ffffff" />
+  </g>
+</svg>
