@@ -1,7 +1,7 @@
 import "./Cta.css";
 import Button from "./Button";
 import ctaBg from "./assets/cta-bg.jpg";
-
+ 
 function Cta(props){
 
     const ctaHeading = props.ctaHeading;
